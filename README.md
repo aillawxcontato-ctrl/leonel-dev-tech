@@ -18,21 +18,32 @@ Tenho forte base analítica, o que me permite desenvolver sistemas com foco em p
 
 ## 🚀 Projetos em Destaque
 
-### 🏢 Ailla — Software House (Projeto Próprio)
+### 🏢 Ailla — HyperSapce (Projeto Próprio)
 
-Landing page institucional e estrutura inicial da marca Ailla, futura software house.
+Uma ferramenta de diagramação avançada construída do zero, com foco em renderização em tempo real, interação fluida e performance de canvas.
 
-**Responsabilidades técnicas:**
-- Desenvolvimento front-end responsivo
-- Estruturação de componentes
-- Organização de arquitetura do projeto
-- Versionamento com Git
-- Deploy e publicação
-- Estruturação semântica HTML
-- Boas práticas de CSS
+Destaques técnicos:
 
-🔗 (adicione aqui o link do repositório)  
-🔗 (adicione aqui o link do site publicado, se houver)
+Engine de renderização customizada com Canvas API
+Gerenciamento de estado complexo para elementos infinitos
+Interação fluida: drag, resize, zoom, pan — tudo construído manualmente
+Arquitetura orientada a performance desde o início
+Stack: React TypeScript Canvas API Framer Motion
+
+---
+
+### 📝 Ailla Pro Editor — (Projeto Próprio)
+"Um editor de texto extremamente versátil e adaptável — construído para se ajustar à necessidade do usuário."
+
+Editor de texto moderno estilo Notion, com sistema de blocos componíveis, construído para ser preciso, rápido e extensível.
+
+Destaques técnicos:
+
+Sistema de blocos dinâmicos com suporte a múltiplos tipos de conteúdo
+Foco total em UX: atalhos, edição inline, reordenamento
+Fundação sólida para evolução com recursos como formatação rich text, exportação, colaboração
+Design system próprio inspirado na identidade visual da Ailla
+Stack: React TypeScript Custom Block Engine
 
 ---
 
